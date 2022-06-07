@@ -1,3 +1,3 @@
-simple business cards using flex in HTML and CSS(from scrimba)
+simple cards using flex in HTML and CSS(from scrimba)
 
-To see the demo, click on: https://ashasingh.github.io/FE-GoofleClone/
+To see the demo, click on: https://ashasingh.github.io/FE-Cards-HTML-CSS/
